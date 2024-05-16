@@ -90,9 +90,7 @@ import java.io.*;
 		    }  
 		  
 		  
-		  
-		
-		//تاكد اذا صح
+	
 		//read-----input  
 		public void LoadFromfile(String filename) throws IOException{  
 		    int index=0;  
